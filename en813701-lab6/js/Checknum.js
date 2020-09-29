@@ -21,7 +21,7 @@ outer: while (true) {
     else {
 
 
-        alert("Enter a positive integer and more than 1 ");
+        alert("Enter a positive integer and more than 1  ");
     }
 
 
